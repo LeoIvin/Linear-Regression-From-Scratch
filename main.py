@@ -8,7 +8,6 @@ print(data)
 """ plt.scatter(data.weekly_self_study_hours, data.total_score)
 plt.show() """
 
-# Build Linear Regression Algorithm from scratch
 
 def loss_function(m, b, points):
     total_error = 0
